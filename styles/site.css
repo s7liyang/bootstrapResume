@@ -1,0 +1,22 @@
+body{
+	padding: 70px;
+}
+header,footer,nav,div,section,aside,article{
+	border-radius: 5px;
+}
+a,a:hover{
+	text-decoration: none;
+}
+.divContent{
+	min-height: 350px;
+}
+/*.jumbotron{
+	background-color: #fdfdfd;
+}*/
+
+
+
+
+
+
+
